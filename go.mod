@@ -10,9 +10,6 @@ require (
 	github.com/golang/mock v1.4.4
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/google/uuid v1.1.1
-	github.com/googleapis/gnostic v0.3.1 // indirect
-	github.com/gregjones/httpcache v0.0.0-20180305231024-9cad4c3443a7 // indirect
-	github.com/hashicorp/golang-lru v0.5.3 // indirect
 	github.com/imdario/mergo v0.3.8 // indirect
 	github.com/jpoles1/gopherbadger v2.4.0+incompatible // indirect
 	github.com/onsi/ginkgo v1.12.0

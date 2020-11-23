@@ -117,7 +117,7 @@ There are example CRs in `deploy/crds/` you might want to use to see how the ope
 
 ### Running tests
 
-You can run the tests using `make gotest` or `go test ./...`
+You can run the tests using `make go-test` or `go test ./...`
 
 ## Configuration
 

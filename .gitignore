@@ -62,6 +62,7 @@ anaconda-mode/
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 ### Vim ###
+*.orig
 # swap
 .sw[a-p]
 .*.sw[a-p]
@@ -80,3 +81,6 @@ tags
 key.json
 config.source
 /secrets
+### Boilerplate ###
+.operator-sdk/*
+.venv/*
