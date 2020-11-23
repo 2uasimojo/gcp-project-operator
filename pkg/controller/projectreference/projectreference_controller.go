@@ -31,9 +31,6 @@ const (
 
 	// secret information
 	orgGcpSecretName = "gcp-project-operator-credentials"
-
-	// Configmap related configs
-	orgGcpConfigMap = "gcp-project-operator"
 )
 
 /**
